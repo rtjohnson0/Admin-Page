@@ -71,7 +71,7 @@ C# Admin Page task was to build a dotnet server for my Ecommerce-Page [https://g
 
 ## Authors
 
-Authors contributed to all back-end and front-end code to this project.All authors contributed to deploying
+Author(s) contributed to all back-end and front-end code to this project.All author(s) contributed to the repo.
 
 | Name | Github Links |
 | ------ | ------ |
