@@ -6,7 +6,7 @@ C# Admin Page task was to build a dotnet server for my Ecommerce-Page [https://g
 
 ##  Read
 
-![alt text](work/images/ADD.png)
+![alt text](work/images/allProducts.png)
 -   Showcasing all the products in my MySql databse.
 
 
