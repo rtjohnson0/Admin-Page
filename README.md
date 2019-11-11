@@ -63,11 +63,9 @@ C# Admin Page task was to build a dotnet server for my Ecommerce-Page [https://g
 
 ##  Languages & Tools
   - __React__ is used for the UI
-  - __MongoDB__ is used for our database to record exercises and personal user information
-  - __node.js__  evented I/O for the backend
-  - __Express__ using Express to connect endpoints from our database to our UI
-  - __Morgan__ to log when a client hits our endpoints
-  - __Sass__ to be able to style our UI
+  - __MySql__ is used for our database to record exercises and personal user information
+  - __C#__  evented I/O for the backend
+
 
 
 
