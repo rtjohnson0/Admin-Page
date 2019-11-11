@@ -31,7 +31,7 @@ C# Admin Page task was to build a dotnet server for my Ecommerce-Page [https://g
 -   Asking if the admin wants to delete the product
 -   This prevents accidentally deleting a product
 
-![alt text](work/images/Delete.png)
+![alt text](work/images/Deletept2.png)
 -   Showing the new updated products after the delete!
 
 
