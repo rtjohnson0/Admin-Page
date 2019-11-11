@@ -77,9 +77,8 @@ Authors contributed to all back-end and front-end code to this project.All autho
 
 | Name | Github Links |
 | ------ | ------ |
-| Reginald Johnson | [https://github.com/rtjohnson0][PlDb] |
-| Arely Guevara | [https://github.com/alternativestrategies][PlGh] |
-|La'Daisha Pettus | [https://github.com/LaDaishaPettus][PlGd] |
+| Reginald Johnson | [https://github.com/rtjohnson0] |
+
 
 
 
