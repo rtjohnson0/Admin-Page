@@ -58,7 +58,7 @@ C# Admin Page task was to build a dotnet server for my Ecommerce-Page [https://g
    2.   open in code editor
    3.     open terminal
    4.     npm install
-   5.    create .env with your own local mongoDB
+   5.    create information with your MySql database
    6.   npm run start
   ```
 
