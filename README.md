@@ -1,5 +1,7 @@
 # C# Admin Page
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 
 C# Admin Page task was to build a dotnet server for my Ecommerce-Page [https://github.com/rtjohnson0/Ecommerce-Project] while connecting it to our own MySql Database. This task was built and launched by Reginald Johnson
